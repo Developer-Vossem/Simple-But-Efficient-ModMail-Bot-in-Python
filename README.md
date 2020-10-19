@@ -1,2 +1,22 @@
-# Simple-But-Efficient-ModMail-Bot-in-Python
-This is the most simplest ModMail Bot you can ever find which is made in Python. It is simple but it is efficient as well. Still doubting? Why don't give it a try.  :)
+# Mod Mail Bot in Python
+
+#  Brief
+This bot is made alone by me in just 2 days. It is made to provide discord servers a better system to provide support to their members!
+
+# Installation
+
+Bot requires latest version of discord.py.
+
+Install the dependencies to start the bot.
+
+```sh
+pip install discord.py
+pip install json
+```
+Put the various things required in config.json placed in utilities folder.
+
+When bot joins your server simply run setup command with the prefix you allocated in it.
+
+# Support
+Want support for the bot? DM me on Discord! My tag is Vossem#0277
+
