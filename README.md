@@ -13,6 +13,7 @@ Install the dependencies to start the bot.
 pip install discord.py
 pip install json
 ```
+Example of config.json can be find here. : https://imgur.com/e01gX96
 Put the various things required in config.json placed in utilities folder.
 
 When bot joins your server simply run setup command with the prefix you allocated in it.
