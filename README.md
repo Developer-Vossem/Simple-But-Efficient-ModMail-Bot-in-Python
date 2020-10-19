@@ -16,6 +16,9 @@ pip install json
 Put the various things required in config.json placed in utilities folder.
 
 When bot joins your server simply run setup command with the prefix you allocated in it.
+```sh
+python main.py
+```
 
 # Support
 Want support for the bot? DM me on Discord! My tag is Vossem#0277
