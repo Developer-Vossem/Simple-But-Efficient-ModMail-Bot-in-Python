@@ -21,5 +21,5 @@ python main.py
 ```
 
 # Support
-Want support for the bot? DM me on Discord! My tag is Vossem#0277
+Want support for the bot? DM me on Discord! My tag is Vossem#0277 !
 
